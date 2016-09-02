@@ -1,5 +1,5 @@
 <?php
-namespace composerTest;
+namespace AdamGuan\composerTest;
 
 class Home{
      public function getHome(){

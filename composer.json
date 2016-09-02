@@ -2,7 +2,7 @@
 	"name": "AdamGuan/composerTest",
 	"autoload": {
 		"psr-4": {
-			"composerTest\\": "src/"
+			"AdamGuan\\composerTest\\": "src/"
 		}
 	}
 }

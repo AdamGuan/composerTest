@@ -1,5 +1,5 @@
 <?php
-namespace composerTest;
+namespace AdamGuan\composerTest;
 
 class Name{
      public function getName(){
