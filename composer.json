@@ -1,0 +1,8 @@
+{
+	"name": "AdamGuan/composerTest",
+	"autoload": {
+		"psr-4": {
+			"composerTest\\": "src/"
+		}
+	}
+}
